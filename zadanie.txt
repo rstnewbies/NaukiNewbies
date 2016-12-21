@@ -1,0 +1,15 @@
+1.Napisz program który będzie:
+	a)wyświetlał wiek użytkownika który będzie wprowadzany na początku programu
+	b)podnosił wiek użytkownika o tyle ile poda użytkownik
+	c)wyświetla wiek użytkownika
+	d)porównanie wieku użytkownika do wieku wpisanego przez użytkownika 
+	e)podaje rok urodzenia użytkownika
+	f)podaje czy użytkownik jest pełnoletni
+(Każda funkcjonalność w osobnej funkcji)
+
+Przykład:
+
+dla d)
+"porównaj mój wiek z ..."
+użytkownik wpisuje 25
+Odpowiedz " jesteś starszy"
